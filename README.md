@@ -1,3 +1,3 @@
 # ML-coursera-
-Assignments on begginer concepts in ML.
+Solutions to the assignments on begginer concepts in ML.
 Instructor: Andrew-ng.
